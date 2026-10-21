@@ -1,0 +1,13 @@
+{
+  "version": "3.2.0",
+  "release_date": "2026-10-21 16:15:00",
+  "mandatory": true,
+  "title": "Sentinel v3.2.0 Akıllı Slot ve Güvenlik Güncellemesi",
+  "changelog": [
+    "Akıllı Slot Koruma Matrisi: Kilitli slotlar VIP aktarımına ve Anvil'e dahil edilmez.",
+    "Otomatik Emniyet Kilidi: Değerli eşyalarınız asla Anvil'de yakılmaz veya depoya atılmaz.",
+    "Zorunlu Otomatik Güncelleyici: Tüm kullanıcılar için tek tıkla otomatik güncelleme devrede.",
+    "Performans ve WebSocket kararlılık optimizasyonları."
+  ],
+  "download_url": "https://raw.githubusercontent.com/umitkarahan558-debug/sentinel-updates/main/update_payload.zip"
+}
